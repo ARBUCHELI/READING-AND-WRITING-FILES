@@ -11,10 +11,10 @@ might use the <strong>.split()</strong> method to process each line.
 
 ![rw](https://github.com/anferebu/READING-AND-WRITING-FILES/blob/master/rw.jpg)
 
-strong>INSTRUCTIONS<strong>
+<strong>INSTRUCTIONS<strong>
 
 1. Download and unzip the repository folder.
 2. Open, compile and run the reading_and_writing_files.py file with Python 3 to see the project.
 
-#Author: Andrés R. Bucheli.
+# Author: Andrés R. Bucheli.
 
